@@ -1,0 +1,11 @@
+https://freepbr.com/materials/black-tile/ - floor
+https://freepbr.com/materials/rough-plaster-pbr-material/ - walls
+https://blenderartists.org/t/rope-texture/534600 - rope
+https://freepbr.com/materials/dull-brass-pbr/ - rope part
+https://www.texturecan.com/details/94/ https://freepbr.com/materials/worn-metal4/ - marble stands
+https://freepbr.com/materials/streaky-plywood-pbr-material/ - paintings frame
+Paintings: - https://www.invaluable.com/blog/famous-oil-paintings/
+Middle - The Storm on the Sea of Galilee by Rembrandt van Rijn | Year: 1633 | Medium: Oil on canvas | Location: Unknown
+Left - Impression, Sunrise by Claude Monet | Year: 1872 | Medium: Oil on canvas | Location: Musée Marmottan Monet, Paris
+Right - A Sunday Afternoon on the Island of La Grande Jatte by Georges Seurat | Year: 1884-86 | Medium: Oil on canvas | Location: Art Institute of Chicago 
+
